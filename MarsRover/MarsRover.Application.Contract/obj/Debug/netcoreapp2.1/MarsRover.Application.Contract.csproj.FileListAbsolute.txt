@@ -1,0 +1,8 @@
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\bin\Debug\netcoreapp2.1\MarsRover.Application.Contract.deps.json
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\bin\Debug\netcoreapp2.1\MarsRover.Application.Contract.dll
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\bin\Debug\netcoreapp2.1\MarsRover.Application.Contract.pdb
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\obj\Debug\netcoreapp2.1\MarsRover.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\obj\Debug\netcoreapp2.1\MarsRover.Application.Contract.AssemblyInfoInputs.cache
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\obj\Debug\netcoreapp2.1\MarsRover.Application.Contract.AssemblyInfo.cs
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\obj\Debug\netcoreapp2.1\MarsRover.Application.Contract.dll
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Contract\obj\Debug\netcoreapp2.1\MarsRover.Application.Contract.pdb

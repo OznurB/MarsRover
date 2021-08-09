@@ -1,0 +1,12 @@
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\bin\Debug\netcoreapp2.1\MarsRover.Application.Service.deps.json
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\bin\Debug\netcoreapp2.1\MarsRover.Application.Service.dll
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\bin\Debug\netcoreapp2.1\MarsRover.Application.Service.pdb
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\bin\Debug\netcoreapp2.1\MarsRover.Application.Contract.dll
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\bin\Debug\netcoreapp2.1\MarsRover.Application.Contract.pdb
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\obj\Debug\netcoreapp2.1\MarsRover.Application.Service.csprojAssemblyReference.cache
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\obj\Debug\netcoreapp2.1\MarsRover.Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\obj\Debug\netcoreapp2.1\MarsRover.Application.Service.AssemblyInfoInputs.cache
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\obj\Debug\netcoreapp2.1\MarsRover.Application.Service.AssemblyInfo.cs
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\obj\Debug\netcoreapp2.1\MarsRover.Application.Service.csproj.CopyComplete
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\obj\Debug\netcoreapp2.1\MarsRover.Application.Service.dll
+C:\Users\obasalan\Documents\Visual Studio 2017\Projects\HepsiBurada\MarsRover\MarsRover.Application.Service\obj\Debug\netcoreapp2.1\MarsRover.Application.Service.pdb

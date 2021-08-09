@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "MarsRover.Application.Service/1.0.0": {
+        "dependencies": {
+          "MarsRover.Application.Contract": "1.0.0"
+        },
+        "runtime": {
+          "MarsRover.Application.Service.dll": {}
+        }
+      },
+      "MarsRover.Application.Contract/1.0.0": {
+        "runtime": {
+          "MarsRover.Application.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarsRover.Application.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MarsRover.Application.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
